@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Language"
+date:   2021-10-30 18:05:55 +0300
+image:  10.jpg
+tags:   Jekyll
+---
+I remember when Heany first came to our house, language barrier was one of the biggest problems between us. If you also feel like you can’t communicate effectively, don’t worry! There are many helpful tools available! In this post, I would introduce you to the BEST translation app (in my opinion), an app for you to learn ANY LANGUAGE, and a helpful website that guides you to translate ANY web page on google!
+
+Some background information: the official language in Taiwan is (Traditional) Chinese, but many people, especially the older generations, speak Hokkien, also known as Taiwanese. Because Hokkien is primarily oral and doesn’t have a standard or widely used writing system, I wasn’t able to find translation tools for this. Sorry! But most Taiwanese people speak Chinese, so just ask them to speak Chinese to you, then you can use the translation app below to translate it into your own language!
+
+(10/2022 update: Meta (the facebook company) just announced that they have developed an AI-powered speech translation system for Hokkien, so be on the lookout for that! I’ll update this blog when the technology is available to use)
+
+The translation app that I recommend the most is the Google Translate App. 
+
+This one is quite self-explanatory. You can easily set the language on the top, and translate it into Chinese (Traditional). This is especially helpful when you are texting someone! 
+
+Now, let’s briefly talk about some cool functions:
+
+1/ Camera
+You can click on the “Camera” button in the middle left of the page and scan anything you want to translate with your phone. This is so helpful when you are exploring the city and running errands.
+
+2/ Conversation
+Just to the left of the “Camera” button is the “Conversation” button. When talking to your employee or anyone who doesn’t speak your language, you can click on the conversation button and hit the microphone button. It’ll translate it into any language immediately!
+
+3/ Star
+In our daily conversations, we repeat a lot of phrases. You can click on the star button on the top right corner of the translation box to bookmark that phrase. Next time you want to translate the same phrase, you can simply click on the “Saved” button at the bottom and view all the translation you have already bookmarked.
+
+*One small tip: download the language that you commonly use so you can access it without internet!*
+
+This app pretty much includes most of the translation functions you would need, but hey, if you would like to learn some Chinese while you are here, I could also recommend some apps to help you learn the Chinese language.
+
+There are many available apps, but the one I recommend the most is Duolingo. Follow the instructions on the app and you’ll be able to learn ANY language for FREE. It has daily challenges and is actually very helpful if you want to learn the language!
+
+Lastly, for website translation, visit this link: https://support.google.com/chrome/answer/173424?hl=fil&co=GENIE.Platform%3DDesktop 
+
+This link explains the process better than I can, but there you go! Here are all my tips and tricks for you to be able to communicate smoothly in Taiwan!
+
+
