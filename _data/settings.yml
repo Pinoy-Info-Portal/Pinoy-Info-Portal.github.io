@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: To Pinoys in Taiwan
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: a website dedicated to help foreign workers navigate life in Taiwan
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Evelyn Lo
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: Hello, I’m <strong>Evelyn Lo</strong>
+  bio: this website is dedicated to  <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
 
 
 #-------------------------------
