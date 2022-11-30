@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: To Pinoys in Taiwan
+title: Guidebook
 logo: logo.svg # You can add own logo.
 description: a website dedicated to help foreign workers navigate life in Taiwan
 
@@ -11,32 +11,32 @@ author:
   name: Evelyn Lo
   image: 01.jpg
   say-hello: Hello, I’m <strong>Evelyn Lo</strong>
-  bio: this website is dedicated to  <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
-
+  bio: this website is dedicated to web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration. Loves music & riding his bicycle.
+  #this website is dedicated to help foreign workers navigate life in Taiwan with information on  <strong>language</strong>, <strong>transportation</strong>, <strong>food</strong>, and more... Some background info ... Heanyhope these posts are helpful to you! Remember that you are not alone here, and there are many support systems available to <a href="#">you.
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+#twitter: https://twitter.com/ # Add your Twitter handle
+#facebook: https://facebook.com/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+#instagram: https://instagram.com/ # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Evelyn Lo # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
-instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+#instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+#instagram-profile: artemsheludko_ # Add instagram username
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+#google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
